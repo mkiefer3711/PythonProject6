@@ -1,0 +1,13 @@
+multiply(5,30) = 150
+power(6,23) = 789730223053602816
+multiply(10,65) = 650
+add(16,403) = 419
+divide(82,7) = 11.714285714285714
+sub Commands must be followed by two integers
+fail Commands must be followed by two integers
+no Is not a command
+power(19,12) = 2213314919066161
+divide(462,14) = 33.0
+add(921,378) = 1299
+sub(564,755) = -191
+divide(9,0) = Cannot divide by 0

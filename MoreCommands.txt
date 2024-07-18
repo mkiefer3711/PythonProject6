@@ -1,0 +1,15 @@
+multiply    5 30
+power     6 23
+
+Multiply   10 65
+ADD     16 403
+divide  82 7
+sub    97 31.3
+Fail
+no    3 9
+
+power  19 12
+DIVIDE 462 14
+add    921 378
+sub   564 755
+divide  9 0

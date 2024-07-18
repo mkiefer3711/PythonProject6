@@ -1,0 +1,13 @@
+add(11,22) = 33
+divide(99,11) = 9.0
+multiply(22,10001) = 220022
+power(11,22) = 81402749386839761113321
+sub(2,101) = -99
+divide(7,0) = Cannot divide by 0
+power(2,10) = 1024
+add Commands must be followed by two integers
+multiply(-3,-7) = 21
+bad Is not a command
+power(10,-2) = 0.01
+fail Commands must be followed by two integers
+sub(1001,1700) = -699
